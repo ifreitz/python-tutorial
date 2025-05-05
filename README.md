@@ -17,11 +17,12 @@ Welcome to the first lesson of Python Basics! In this tutorial, you'll learn the
 ---
 
 ## 📁 File Structure
+```bash
 python-basics-i/
 │
 ├── README.md
 └── variables_conditionals_example.py
-
+```
 
 ---
 
