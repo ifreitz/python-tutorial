@@ -1,9 +1,3 @@
-
----
-
-## 📁 `variables_conditionals_example.py`
-
-```python
 # Python Basics I: Variables, Data Types, and Conditionals
 
 # -------------------------------------
